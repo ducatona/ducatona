@@ -16,7 +16,7 @@ I'm a **Software Developer** passionate about learning and building real-world a
 ### 📫 Connect with me
 
 <p align="center">
-  <a href="linkedin.com/in/adrián-peña-carnero-21814b254" target="_blank">
+  <a href="https://www.linkedin.com/in/adri%C3%A1n-pe%C3%B1a-carnero-21814b254/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:adrianpcarnero@gmail.com" target="_blank">
