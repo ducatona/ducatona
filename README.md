@@ -68,5 +68,5 @@ I'm a **Software Developer** passionate about learning and building real-world a
 ---
 
 <p align="center">
-  <em>“No tree, it is said, can grow to heaven unless its roots are in hell.”</em>
+  <em>“everything happens for a reason.”</em>
 </p>
